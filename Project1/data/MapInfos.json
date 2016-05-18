@@ -8,6 +8,6 @@ null,
 {"id":6,"expanded":true,"name":"Draenor","order":1,"parentId":0,"scrollX":4368,"scrollY":2462},
 {"id":7,"expanded":true,"name":"Jamil_Zelt","order":7,"parentId":6,"scrollX":832,"scrollY":640},
 {"id":8,"expanded":false,"name":"Jamil_Zelt_Aussen","order":8,"parentId":7,"scrollX":832,"scrollY":640},
-{"id":9,"expanded":true,"name":"Eldoran","order":9,"parentId":6,"scrollX":2048,"scrollY":1182},
+{"id":9,"expanded":true,"name":"Eldoran","order":9,"parentId":6,"scrollX":2037.3333333333333,"scrollY":1411.3333333333333},
 {"id":10,"expanded":false,"name":"Markt","order":10,"parentId":9,"scrollX":832,"scrollY":640}
 ]
